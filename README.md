@@ -5,18 +5,18 @@ The goal is to answer business questions around revenue drivers, customer value,
 
 **B. Dataset Description**
 
-**Source**: Kaggle (Electronic Sales Dataset)
-**Records**: ~20,000 transactions
-**Time Period**: Sep 2023 – Sep 2024
-**Granularity**: Transaction-level sales data
+1. **Source**: Kaggle (Electronic Sales Dataset)
+2. **Records**: ~20,000 transactions
+3. **Time Period**: Sep 2023 – Sep 2024
+4. **Granularity**: Transaction-level sales data
 
 **C. Key Fields**
 
-**Customer demographics**: Age, Gender, Loyalty status
-**Sales data**: Total price, Unit price, Quantity
-**Product data**: Product type, SKU
-**Order data**: Order status, Payment method, Shipping type
-**Add-ons**: Add-ons purchased, Add-on total value
+1. **Customer demographics**: Age, Gender, Loyalty status
+2. **Sales data**: Total price, Unit price, Quantity
+3. **Product data**: Product type, SKU
+4. **Order data**: Order status, Payment method, Shipping type
+5. **Add-ons**: Add-ons purchased, Add-on total value
 
 **D. Business Questions Addressed**
 
