@@ -49,4 +49,4 @@ The cleaned dataset was loaded into a SQLite database. SQL queries were written 
 <img width="1094" height="585" alt="Screenshot 2026-01-08 at 15 53 03" src="https://github.com/user-attachments/assets/84943716-f7ed-4004-b8e8-2ab8af50b265" />
 
 
-Visit @Deepdive.md file for indepth analysis
+I have discussed a more in-depth analysis in the @Deepdive.md file. You can navigate there :)
